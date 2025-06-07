@@ -1707,7 +1707,7 @@
       "id": "11",
       "userId": 2,
       "topicId": 2,
-      "answer": [
+      "answers": [
         {
           "questionId": 21,
           "answer": 3
@@ -1794,7 +1794,7 @@
       "id": "12",
       "userId": 2,
       "topicId": 4,
-      "answer": [
+      "answers": [
         {
           "questionId": 61,
           "answer": 2
