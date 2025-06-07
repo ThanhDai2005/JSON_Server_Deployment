@@ -1,0 +1,1881 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Nguyễn Thị A",
+      "email": "nguyenthia@gmail.com",
+      "password": "nguyenthia",
+      "token": "bk9VQydMBRRmW67"
+    },
+    {
+      "id": "2",
+      "fullName": "Đỗ Thị B",
+      "email": "dothib@gmail.com",
+      "password": "dothib",
+      "token": "KszitkpwbbPF3fdj"
+    },
+    {
+      "id": "3",
+      "fullName": "Trần Văn C",
+      "email": "tranvanc@gmail.com",
+      "password": "tranvanc",
+      "token": "yHfjk29XMVLpX"
+    },
+    {
+      "id": "4",
+      "fullName": "Lê Thị D",
+      "email": "lethid@gmail.com",
+      "password": "lethid",
+      "token": "TqLoP9XmWabcY"
+    },
+    {
+      "id": "5",
+      "fullName": "Phạm Văn E",
+      "email": "phamvane@gmail.com",
+      "password": "phamvane",
+      "token": "XZLQmk79PNWbJd"
+    },
+    {
+      "id": "6",
+      "fullName": "Nguyễn Văn Thành Đại",
+      "token": "MC44OTQ0MjA4MTY2NjQ3",
+      "email": "nguyenvanthanhdai@gmail.com",
+      "password": "nguyenvanthanhdai"
+    },
+    {
+      "id": "252b",
+      "fullName": "Nguyễn Văn Trường Thịnh",
+      "token": "MC4xMjc2ODMyMDg1OTg4",
+      "email": "nguyenvantruongthinh@gmail.com",
+      "password": "nguyenvantruongthinh"
+    },
+    {
+      "id": "1d90",
+      "fullName": "Nguyễn Thị F",
+      "token": "MC40NjY5MzE5NTYxMzYx",
+      "password": "nguyenthif",
+      "email": "nguyenthif@gmail.com"
+    }
+  ],
+  "topics": [
+    {
+      "id": "1",
+      "name": "HTML5"
+    },
+    {
+      "id": "2",
+      "name": "CSS3"
+    },
+    {
+      "id": "3",
+      "name": "Javascript"
+    },
+    {
+      "id": "4",
+      "name": "ReactJS"
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "topicId": 1,
+      "question": "Thẻ nào dùng để xác định tiêu đề chính trong HTML?",
+      "answers": ["<title>", "<h1>", "<header>", "<head>"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "2",
+      "topicId": 1,
+      "question": "Thẻ nào dùng để tạo một danh sách có thứ tự?",
+      "answers": ["<ul>", "<li>", "<ol>", "<list>"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "3",
+      "topicId": 1,
+      "question": "HTML5 có hỗ trợ API nào sau đây?",
+      "answers": [
+        "Geolocation",
+        "Web Storage",
+        "Canvas",
+        "Tất cả các đáp án trên"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "4",
+      "topicId": 1,
+      "question": "Thẻ nào dùng để hiển thị hình ảnh?",
+      "answers": ["<image>", "<img>", "<picture>", "<src>"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "5",
+      "topicId": 1,
+      "question": "Thẻ nào dùng để nhúng video vào trang web?",
+      "answers": ["<video>", "<media>", "<embed>", "<source>"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "6",
+      "topicId": 1,
+      "question": "Thuộc tính nào giúp mô tả nội dung của hình ảnh?",
+      "answers": ["title", "src", "alt", "caption"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "7",
+      "topicId": 1,
+      "question": "Thuộc tính nào dùng để tạo liên kết mở trong tab mới?",
+      "answers": [
+        "target='_self'",
+        "target='_blank'",
+        "target='_new'",
+        "target='_top'"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "8",
+      "topicId": 1,
+      "question": "Thẻ nào giúp nhóm các thẻ input trong form?",
+      "answers": ["<label>", "<fieldset>", "<legend>", "<group>"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "9",
+      "topicId": 1,
+      "question": "HTML5 có hỗ trợ lưu trữ dữ liệu nào?",
+      "answers": [
+        "SessionStorage",
+        "LocalStorage",
+        "Cookies",
+        "Tất cả đáp án trên"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "10",
+      "topicId": 1,
+      "question": "Thẻ nào dùng để tạo bảng?",
+      "answers": ["<table>", "<tr>", "<td>", "<th>"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "11",
+      "topicId": 1,
+      "question": "Thẻ nào KHÔNG phải là thẻ HTML5?",
+      "answers": ["<section>", "<article>", "<frame>", "<aside>"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "12",
+      "topicId": 1,
+      "question": "Thuộc tính nào giúp nhập dữ liệu ngày tháng?",
+      "answers": [
+        "type='text'",
+        "type='datetime'",
+        "type='date'",
+        "type='calendar'"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "13",
+      "topicId": 1,
+      "question": "Thẻ nào dùng để tạo danh sách không có thứ tự?",
+      "answers": ["<ul>", "<ol>", "<li>", "<dl>"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "14",
+      "topicId": 1,
+      "question": "Thuộc tính nào dùng để liên kết tệp CSS vào HTML?",
+      "answers": [
+        "rel='stylesheet'",
+        "src='style.css'",
+        "link='style.css'",
+        "href='style.css'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "15",
+      "topicId": 1,
+      "question": "Thuộc tính nào để điều chỉnh khoảng cách giữa các dòng?",
+      "answers": ["line-spacing", "line-height", "spacing", "text-indent"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "16",
+      "topicId": 1,
+      "question": "HTML5 hỗ trợ API nào để hiển thị đồ họa?",
+      "answers": ["WebGL", "Canvas", "SVG", "Cả 3 đáp án trên"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "17",
+      "topicId": 1,
+      "question": "Thẻ nào giúp tạo danh sách mô tả?",
+      "answers": ["<dl>", "<list>", "<dt>", "<dd>"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "18",
+      "topicId": 1,
+      "question": "Thẻ nào giúp nhúng âm thanh vào HTML?",
+      "answers": ["<audio>", "<sound>", "<mp3>", "<music>"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "19",
+      "topicId": 1,
+      "question": "Thẻ nào dùng để chia nội dung thành nhiều phần?",
+      "answers": ["<div>", "<section>", "<article>", "Tất cả đáp án trên"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "20",
+      "topicId": 1,
+      "question": "HTML có thể sử dụng CSS bằng cách nào?",
+      "answers": ["Internal", "External", "Inline", "Tất cả đáp án trên"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "21",
+      "topicId": 2,
+      "question": "Thuộc tính nào giúp thay đổi font chữ trong CSS?",
+      "answers": [
+        "font-style",
+        "text-decoration",
+        "font-family",
+        "background-color"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "22",
+      "topicId": 2,
+      "question": "CSS có bao nhiêu cách để chèn vào HTML?",
+      "answers": ["1", "2", "3", "4"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "23",
+      "topicId": 2,
+      "question": "Thuộc tính nào để thiết lập hình nền trong CSS?",
+      "answers": [
+        "background-color",
+        "background-image",
+        "background-style",
+        "image-src"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "24",
+      "topicId": 2,
+      "question": "Thuộc tính nào dùng để làm tròn góc của phần tử?",
+      "answers": ["border", "border-radius", "corner", "round"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "25",
+      "topicId": 2,
+      "question": "Đơn vị nào KHÔNG phải của CSS?",
+      "answers": ["px", "em", "dp", "rem"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "26",
+      "topicId": 2,
+      "question": "Thuộc tính nào giúp tạo bóng cho phần tử?",
+      "answers": ["box-shadow", "text-shadow", "shadow", "filter-shadow"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "27",
+      "topicId": 2,
+      "question": "Lệnh nào giúp một phần tử cố định khi cuộn trang?",
+      "answers": [
+        "position: absolute",
+        "position: fixed",
+        "position: relative",
+        "position: sticky"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "28",
+      "topicId": 2,
+      "question": "Thuộc tính nào dùng để thay đổi độ trong suốt?",
+      "answers": ["opacity", "visibility", "transparent", "filter"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "29",
+      "topicId": 2,
+      "question": "Flexbox giúp dễ dàng làm gì?",
+      "answers": [
+        "Sắp xếp bố cục",
+        "Thêm màu nền",
+        "Tạo hiệu ứng động",
+        "Căn chỉnh chữ"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "30",
+      "topicId": 2,
+      "question": "Lệnh nào giúp căn giữa một phần tử trong flexbox?",
+      "answers": [
+        "align-items: center",
+        "justify-content: center",
+        "margin: auto",
+        "Cả A và B"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "31",
+      "topicId": 2,
+      "question": "CSS Grid được giới thiệu trong phiên bản nào?",
+      "answers": ["CSS1", "CSS2", "CSS3", "CSS4"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "32",
+      "topicId": 2,
+      "question": "Thuộc tính nào giúp đổi hướng flexbox?",
+      "answers": ["flex-direction", "align-items", "justify-content", "order"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "33",
+      "topicId": 2,
+      "question": "CSS3 có hỗ trợ biến không?",
+      "answers": [
+        "Có, dùng var()",
+        "Không",
+        "Có, dùng let()",
+        "Chỉ có trong SCSS"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "34",
+      "topicId": 2,
+      "question": "Thuộc tính nào giúp ẩn phần tử mà không chiếm không gian?",
+      "answers": [
+        "opacity: 0",
+        "display: none",
+        "visibility: hidden",
+        "z-index: -1"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "35",
+      "topicId": 2,
+      "question": "Lệnh nào giúp đổi màu nền theo gradient?",
+      "answers": [
+        "background: linear-gradient()",
+        "background: gradient()",
+        "color-gradient()",
+        "gradient-bg()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "36",
+      "topicId": 2,
+      "question": "Thuộc tính nào giúp văn bản tự động xuống dòng?",
+      "answers": ["word-wrap", "text-wrap", "wrap-text", "break-word"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "37",
+      "topicId": 2,
+      "question": "Pseudo-class nào dùng để chọn phần tử được hover?",
+      "answers": [":focus", ":hover", ":checked", ":first-child"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "38",
+      "topicId": 2,
+      "question": "Thuộc tính nào giúp căn chỉnh nội dung trong một khung?",
+      "answers": ["align-items", "text-align", "justify-content", "position"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "39",
+      "topicId": 2,
+      "question": "CSS có thể sử dụng để tạo hiệu ứng động không?",
+      "answers": [
+        "Có, dùng @keyframes",
+        "Không",
+        "Chỉ có trong JavaScript",
+        "Chỉ có trong SCSS"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "40",
+      "topicId": 2,
+      "question": "Thuộc tính nào giúp một phần tử nổi trên các phần khác?",
+      "answers": ["float", "overflow", "z-index", "position"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "41",
+      "topicId": 3,
+      "question": "JavaScript là gì?",
+      "answers": [
+        "Ngôn ngữ lập trình",
+        "Ngôn ngữ kịch bản",
+        "Ngôn ngữ đánh dấu",
+        "Cả A và B"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "42",
+      "topicId": 3,
+      "question": "Kiểu dữ liệu nào KHÔNG tồn tại trong JavaScript?",
+      "answers": ["String", "Number", "Boolean", "Character"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "43",
+      "topicId": 3,
+      "question": "Câu lệnh nào dùng để khai báo biến trong JavaScript?",
+      "answers": ["var", "let", "const", "Cả 3 đáp án trên"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "44",
+      "topicId": 3,
+      "question": "JavaScript là loại ngôn ngữ gì?",
+      "answers": ["Biên dịch", "Thông dịch", "Cả hai", "Không phải cả hai"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "45",
+      "topicId": 3,
+      "question": "Cách khai báo biến nào là đúng trong JavaScript?",
+      "answers": ["let x = 10", "var x = 10", "const x = 10", "Cả A, B và C"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "46",
+      "topicId": 3,
+      "question": "Cách nào để hiển thị dữ liệu trong JavaScript?",
+      "answers": [
+        "console.log()",
+        "alert()",
+        "document.write()",
+        "Tất cả đều đúng"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "47",
+      "topicId": 3,
+      "question": "typeof NaN trả về kiểu dữ liệu nào?",
+      "answers": ["number", "undefined", "null", "NaN"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "48",
+      "topicId": 3,
+      "question": "Hàm nào dùng để chuyển đổi một chuỗi thành số nguyên?",
+      "answers": ["parseInt()", "parseFloat()", "Number()", "Cả A và C"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "49",
+      "topicId": 3,
+      "question": "Làm thế nào để kiểm tra kiểu dữ liệu của một biến?",
+      "answers": ["typeof", "instanceof", "isType()", "Cả A và B"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "50",
+      "topicId": 3,
+      "question": "Toán tử nào dùng để so sánh giá trị và kiểu dữ liệu?",
+      "answers": ["==", "!=", "===", "=>"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "51",
+      "topicId": 3,
+      "question": "JavaScript chạy trên trình duyệt theo cơ chế nào?",
+      "answers": ["Đồng bộ", "Bất đồng bộ", "Cả hai", "Không có cơ chế cụ thể"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "52",
+      "topicId": 3,
+      "question": "Mảng trong JavaScript có thể chứa những kiểu dữ liệu nào?",
+      "answers": [
+        "Chỉ số",
+        "Chỉ chuỗi",
+        "Bất kỳ kiểu dữ liệu nào",
+        "Chỉ số và chuỗi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "53",
+      "topicId": 3,
+      "question": "Hàm nào dùng để thêm phần tử vào cuối mảng?",
+      "answers": ["push()", "pop()", "shift()", "unshift()"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "54",
+      "topicId": 3,
+      "question": "Cách nào để lặp qua tất cả phần tử của mảng?",
+      "answers": ["forEach()", "map()", "for...of", "Tất cả các cách trên"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "55",
+      "topicId": 3,
+      "question": "Khi nào sử dụng let thay vì var?",
+      "answers": [
+        "Muốn biến có phạm vi block",
+        "Muốn biến có phạm vi toàn cục",
+        "Không có sự khác biệt",
+        "Không bao giờ"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "56",
+      "topicId": 3,
+      "question": "Để kiểm tra xem một phần tử có tồn tại trong mảng không, ta dùng?",
+      "answers": ["includes()", "indexOf()", "find()", "Tất cả các cách trên"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "57",
+      "topicId": 3,
+      "question": "Cách nào để trộn các phần tử trong mảng?",
+      "answers": [
+        "array.reverse()",
+        "array.sort()",
+        "array.shuffle()",
+        "Không có cách nào"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "58",
+      "topicId": 3,
+      "question": "JSON là viết tắt của?",
+      "answers": [
+        "JavaScript Object Notation",
+        "JavaScript Online Notation",
+        "Java System Object Naming",
+        "Không có đáp án đúng"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "59",
+      "topicId": 3,
+      "question": "Hàm setTimeout() dùng để làm gì?",
+      "answers": [
+        "Thực thi hàm sau một khoảng thời gian",
+        "Lặp lại hàm liên tục",
+        "Dừng chương trình",
+        "Không có đáp án đúng"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "60",
+      "topicId": 3,
+      "question": "Event nào chạy khi người dùng nhấp vào một phần tử?",
+      "answers": ["onhover", "onclick", "onpress", "onactivate"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "61",
+      "topicId": 4,
+      "question": "ReactJS là gì?",
+      "answers": [
+        "Thư viện JavaScript để xây dựng giao diện người dùng",
+        "Ngôn ngữ lập trình",
+        "Framework full-stack",
+        "Công cụ thiết kế UI"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "62",
+      "topicId": 4,
+      "question": "JSX là gì?",
+      "answers": [
+        "Một cú pháp mở rộng của JavaScript",
+        "Một loại file trong React",
+        "Một cách viết hàm trong React",
+        "Một framework con của React"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "63",
+      "topicId": 4,
+      "question": "Cách nào để tạo một component trong React?",
+      "answers": [
+        "Sử dụng function component",
+        "Sử dụng class component",
+        "Cả A và B",
+        "Không thể tạo component trong React"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "64",
+      "topicId": 4,
+      "question": "State trong React là gì?",
+      "answers": [
+        "Một biến toàn cục",
+        "Một đối tượng để lưu trữ dữ liệu động trong component",
+        "Một loại CSS trong React",
+        "Một phương thức để gọi API"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "65",
+      "topicId": 4,
+      "question": "Cách nào để cập nhật state trong function component?",
+      "answers": [
+        "setState()",
+        "this.setState()",
+        "useState()",
+        "updateState()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "66",
+      "topicId": 4,
+      "question": "React Hook nào dùng để thay thế componentDidMount?",
+      "answers": ["useState", "useEffect", "useContext", "useReducer"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "67",
+      "topicId": 4,
+      "question": "Props trong React dùng để làm gì?",
+      "answers": [
+        "Truyền dữ liệu từ component cha xuống component con",
+        "Lưu trạng thái của component",
+        "Làm style cho component",
+        "Không có chức năng gì"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "68",
+      "topicId": 4,
+      "question": "Redux trong React dùng để làm gì?",
+      "answers": [
+        "Quản lý state toàn cục",
+        "Lưu trữ dữ liệu trên database",
+        "Gửi request API",
+        "Render UI"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "69",
+      "topicId": 4,
+      "question": "React Router dùng để làm gì?",
+      "answers": [
+        "Điều hướng giữa các trang trong ứng dụng",
+        "Quản lý state của ứng dụng",
+        "Gửi request API",
+        "Tạo hiệu ứng động"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "70",
+      "topicId": 4,
+      "question": "useEffect trong React có tác dụng gì?",
+      "answers": [
+        "Gọi API và xử lý hiệu ứng phụ",
+        "Thay đổi UI",
+        "Quản lý state",
+        "Tạo router"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "71",
+      "topicId": 4,
+      "question": "Context API trong React dùng để làm gì?",
+      "answers": [
+        "Chia sẻ dữ liệu giữa các component mà không cần truyền props",
+        "Lưu trữ dữ liệu trên server",
+        "Quản lý style của ứng dụng",
+        "Tạo component mới"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "72",
+      "topicId": 4,
+      "question": "Cách nào để tối ưu performance trong React?",
+      "answers": [
+        "Sử dụng React.memo",
+        "Sử dụng useCallback",
+        "Sử dụng useMemo",
+        "Tất cả các cách trên"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "73",
+      "topicId": 4,
+      "question": "Cách nào để render danh sách trong React?",
+      "answers": [
+        "Dùng map() để lặp qua danh sách",
+        "Dùng for loop",
+        "Dùng while loop",
+        "Dùng if else"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "74",
+      "topicId": 4,
+      "question": "Cách nào để xử lý sự kiện trong React?",
+      "answers": [
+        "Dùng sự kiện onClick, onChange, onSubmit,...",
+        "Dùng addEventListener()",
+        "Dùng window.event()",
+        "Dùng eventEmitter()"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "75",
+      "topicId": 4,
+      "question": "React có thể chạy trên môi trường nào?",
+      "answers": [
+        "Chỉ trên trình duyệt",
+        "Chỉ trên máy chủ",
+        "Cả trình duyệt và máy chủ",
+        "Không chạy được trên môi trường nào"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "76",
+      "topicId": 4,
+      "question": "Cách nào để sử dụng style trong React?",
+      "answers": [
+        "Dùng inline style",
+        "Dùng CSS file",
+        "Dùng CSS-in-JS",
+        "Tất cả các cách trên"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "77",
+      "topicId": 4,
+      "question": "Lợi ích chính của Virtual DOM trong React là gì?",
+      "answers": [
+        "Tăng tốc độ render UI",
+        "Lưu trữ dữ liệu của ứng dụng",
+        "Quản lý API",
+        "Không có lợi ích gì"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "78",
+      "topicId": 4,
+      "question": "Cách nào để truyền dữ liệu từ component con lên component cha?",
+      "answers": [
+        "Dùng callback function",
+        "Dùng props",
+        "Dùng state",
+        "Dùng Redux"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "79",
+      "topicId": 4,
+      "question": "Cách nào để tạo một custom hook trong React?",
+      "answers": [
+        "Tạo một function có tiền tố use",
+        "Tạo một class component",
+        "Tạo một component trong React",
+        "Không thể tạo custom hook"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "80",
+      "topicId": 4,
+      "question": "React sử dụng cơ chế nào để cập nhật UI?",
+      "answers": ["Real DOM", "Virtual DOM", "Shadow DOM", "Cả A và B"],
+      "correctAnswer": 1
+    }
+  ],
+  "answers": [
+    {
+      "id": "1",
+      "userId": 1,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 2
+        },
+        {
+          "questionId": 2,
+          "answer": 1
+        },
+        {
+          "questionId": 3,
+          "answer": 2
+        },
+        {
+          "questionId": 4,
+          "answer": 3
+        },
+        {
+          "questionId": 5,
+          "answer": 2
+        },
+        {
+          "questionId": 6,
+          "answer": 1
+        },
+        {
+          "questionId": 7,
+          "answer": 3
+        },
+        {
+          "questionId": 8,
+          "answer": 2
+        },
+        {
+          "questionId": 9,
+          "answer": 1
+        },
+        {
+          "questionId": 10,
+          "answer": 0
+        },
+        {
+          "questionId": 11,
+          "answer": 2
+        },
+        {
+          "questionId": 12,
+          "answer": 1
+        },
+        {
+          "questionId": 13,
+          "answer": 2
+        },
+        {
+          "questionId": 14,
+          "answer": 3
+        },
+        {
+          "questionId": 15,
+          "answer": 2
+        },
+        {
+          "questionId": 16,
+          "answer": 1
+        },
+        {
+          "questionId": 17,
+          "answer": 3
+        },
+        {
+          "questionId": 18,
+          "answer": 2
+        },
+        {
+          "questionId": 19,
+          "answer": 1
+        },
+        {
+          "questionId": 20,
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "topicId": 2,
+      "answers": [
+        {
+          "questionId": 21,
+          "answer": 2
+        },
+        {
+          "questionId": 22,
+          "answer": 1
+        },
+        {
+          "questionId": 23,
+          "answer": 3
+        },
+        {
+          "questionId": 24,
+          "answer": 2
+        },
+        {
+          "questionId": 25,
+          "answer": 0
+        },
+        {
+          "questionId": 26,
+          "answer": 1
+        },
+        {
+          "questionId": 27,
+          "answer": 1
+        },
+        {
+          "questionId": 28,
+          "answer": 2
+        },
+        {
+          "questionId": 29,
+          "answer": 0
+        },
+        {
+          "questionId": 30,
+          "answer": 3
+        },
+        {
+          "questionId": 31,
+          "answer": 2
+        },
+        {
+          "questionId": 32,
+          "answer": 1
+        },
+        {
+          "questionId": 33,
+          "answer": 3
+        },
+        {
+          "questionId": 34,
+          "answer": 2
+        },
+        {
+          "questionId": 35,
+          "answer": 0
+        },
+        {
+          "questionId": 36,
+          "answer": 1
+        },
+        {
+          "questionId": 37,
+          "answer": 1
+        },
+        {
+          "questionId": 38,
+          "answer": 2
+        },
+        {
+          "questionId": 39,
+          "answer": 0
+        },
+        {
+          "questionId": 40,
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "userId": 2,
+      "topicId": 2,
+      "answers": [
+        {
+          "questionId": 21,
+          "answer": 1
+        },
+        {
+          "questionId": 22,
+          "answer": 0
+        },
+        {
+          "questionId": 23,
+          "answer": 2
+        },
+        {
+          "questionId": 24,
+          "answer": 3
+        },
+        {
+          "questionId": 25,
+          "answer": 2
+        },
+        {
+          "questionId": 26,
+          "answer": 1
+        },
+        {
+          "questionId": 27,
+          "answer": 3
+        },
+        {
+          "questionId": 28,
+          "answer": 2
+        },
+        {
+          "questionId": 29,
+          "answer": 1
+        },
+        {
+          "questionId": 30,
+          "answer": 0
+        },
+        {
+          "questionId": 31,
+          "answer": 2
+        },
+        {
+          "questionId": 32,
+          "answer": 1
+        },
+        {
+          "questionId": 33,
+          "answer": 3
+        },
+        {
+          "questionId": 34,
+          "answer": 3
+        },
+        {
+          "questionId": 35,
+          "answer": 2
+        },
+        {
+          "questionId": 36,
+          "answer": 1
+        },
+        {
+          "questionId": 37,
+          "answer": 0
+        },
+        {
+          "questionId": 38,
+          "answer": 2
+        },
+        {
+          "questionId": 39,
+          "answer": 1
+        },
+        {
+          "questionId": 40,
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "userId": 2,
+      "topicId": 3,
+      "answers": [
+        {
+          "questionId": 41,
+          "answer": 3
+        },
+        {
+          "questionId": 42,
+          "answer": 2
+        },
+        {
+          "questionId": 43,
+          "answer": 0
+        },
+        {
+          "questionId": 44,
+          "answer": 1
+        },
+        {
+          "questionId": 45,
+          "answer": 2
+        },
+        {
+          "questionId": 46,
+          "answer": 3
+        },
+        {
+          "questionId": 47,
+          "answer": 2
+        },
+        {
+          "questionId": 48,
+          "answer": 1
+        },
+        {
+          "questionId": 49,
+          "answer": 3
+        },
+        {
+          "questionId": 50,
+          "answer": 0
+        },
+        {
+          "questionId": 51,
+          "answer": 3
+        },
+        {
+          "questionId": 52,
+          "answer": 2
+        },
+        {
+          "questionId": 53,
+          "answer": 0
+        },
+        {
+          "questionId": 54,
+          "answer": 1
+        },
+        {
+          "questionId": 55,
+          "answer": 2
+        },
+        {
+          "questionId": 56,
+          "answer": 3
+        },
+        {
+          "questionId": 57,
+          "answer": 2
+        },
+        {
+          "questionId": 58,
+          "answer": 1
+        },
+        {
+          "questionId": 59,
+          "answer": 3
+        },
+        {
+          "questionId": 60,
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "userId": 3,
+      "topicId": 3,
+      "answers": [
+        {
+          "questionId": 41,
+          "answer": 2
+        },
+        {
+          "questionId": 42,
+          "answer": 0
+        },
+        {
+          "questionId": 43,
+          "answer": 3
+        },
+        {
+          "questionId": 44,
+          "answer": 2
+        },
+        {
+          "questionId": 45,
+          "answer": 1
+        },
+        {
+          "questionId": 46,
+          "answer": 3
+        },
+        {
+          "questionId": 47,
+          "answer": 0
+        },
+        {
+          "questionId": 48,
+          "answer": 2
+        },
+        {
+          "questionId": 49,
+          "answer": 1
+        },
+        {
+          "questionId": 50,
+          "answer": 3
+        },
+        {
+          "questionId": 51,
+          "answer": 0
+        },
+        {
+          "questionId": 52,
+          "answer": 3
+        },
+        {
+          "questionId": 53,
+          "answer": 2
+        },
+        {
+          "questionId": 54,
+          "answer": 1
+        },
+        {
+          "questionId": 55,
+          "answer": 3
+        },
+        {
+          "questionId": 56,
+          "answer": 0
+        },
+        {
+          "questionId": 57,
+          "answer": 2
+        },
+        {
+          "questionId": 58,
+          "answer": 1
+        },
+        {
+          "questionId": 59,
+          "answer": 3
+        },
+        {
+          "questionId": 60,
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "userId": 3,
+      "topicId": 4,
+      "answers": [
+        {
+          "questionId": 61,
+          "answer": 1
+        },
+        {
+          "questionId": 62,
+          "answer": 0
+        },
+        {
+          "questionId": 63,
+          "answer": 2
+        },
+        {
+          "questionId": 64,
+          "answer": 3
+        },
+        {
+          "questionId": 65,
+          "answer": 2
+        },
+        {
+          "questionId": 66,
+          "answer": 1
+        },
+        {
+          "questionId": 67,
+          "answer": 3
+        },
+        {
+          "questionId": 68,
+          "answer": 0
+        },
+        {
+          "questionId": 69,
+          "answer": 2
+        },
+        {
+          "questionId": 70,
+          "answer": 1
+        },
+        {
+          "questionId": 71,
+          "answer": 3
+        },
+        {
+          "questionId": 72,
+          "answer": 0
+        },
+        {
+          "questionId": 73,
+          "answer": 2
+        },
+        {
+          "questionId": 74,
+          "answer": 1
+        },
+        {
+          "questionId": 75,
+          "answer": 3
+        },
+        {
+          "questionId": 76,
+          "answer": 1
+        },
+        {
+          "questionId": 77,
+          "answer": 0
+        },
+        {
+          "questionId": 78,
+          "answer": 2
+        },
+        {
+          "questionId": 79,
+          "answer": 3
+        },
+        {
+          "questionId": 80,
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "userId": 4,
+      "topicId": 3,
+      "answers": [
+        {
+          "questionId": 41,
+          "answer": 3
+        },
+        {
+          "questionId": 42,
+          "answer": 2
+        },
+        {
+          "questionId": 43,
+          "answer": 0
+        },
+        {
+          "questionId": 44,
+          "answer": 1
+        },
+        {
+          "questionId": 45,
+          "answer": 2
+        },
+        {
+          "questionId": 46,
+          "answer": 3
+        },
+        {
+          "questionId": 47,
+          "answer": 2
+        },
+        {
+          "questionId": 48,
+          "answer": 1
+        },
+        {
+          "questionId": 49,
+          "answer": 3
+        },
+        {
+          "questionId": 50,
+          "answer": 0
+        },
+        {
+          "questionId": 51,
+          "answer": 3
+        },
+        {
+          "questionId": 52,
+          "answer": 2
+        },
+        {
+          "questionId": 53,
+          "answer": 0
+        },
+        {
+          "questionId": 54,
+          "answer": 1
+        },
+        {
+          "questionId": 55,
+          "answer": 2
+        },
+        {
+          "questionId": 56,
+          "answer": 3
+        },
+        {
+          "questionId": 57,
+          "answer": 2
+        },
+        {
+          "questionId": 58,
+          "answer": 1
+        },
+        {
+          "questionId": 59,
+          "answer": 3
+        },
+        {
+          "questionId": 60,
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "userId": 4,
+      "topicId": 4,
+      "answers": [
+        {
+          "questionId": 61,
+          "answer": 1
+        },
+        {
+          "questionId": 62,
+          "answer": 2
+        },
+        {
+          "questionId": 63,
+          "answer": 0
+        },
+        {
+          "questionId": 64,
+          "answer": 3
+        },
+        {
+          "questionId": 65,
+          "answer": 2
+        },
+        {
+          "questionId": 66,
+          "answer": 1
+        },
+        {
+          "questionId": 67,
+          "answer": 3
+        },
+        {
+          "questionId": 68,
+          "answer": 0
+        },
+        {
+          "questionId": 69,
+          "answer": 2
+        },
+        {
+          "questionId": 70,
+          "answer": 1
+        },
+        {
+          "questionId": 71,
+          "answer": 1
+        },
+        {
+          "questionId": 72,
+          "answer": 2
+        },
+        {
+          "questionId": 73,
+          "answer": 0
+        },
+        {
+          "questionId": 74,
+          "answer": 3
+        },
+        {
+          "questionId": 75,
+          "answer": 2
+        },
+        {
+          "questionId": 76,
+          "answer": 1
+        },
+        {
+          "questionId": 77,
+          "answer": 3
+        },
+        {
+          "questionId": 78,
+          "answer": 0
+        },
+        {
+          "questionId": 79,
+          "answer": 2
+        },
+        {
+          "questionId": 80,
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "userId": 5,
+      "topicId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "answer": 1
+        },
+        {
+          "questionId": 2,
+          "answer": 0
+        },
+        {
+          "questionId": 3,
+          "answer": 2
+        },
+        {
+          "questionId": 4,
+          "answer": 3
+        },
+        {
+          "questionId": 5,
+          "answer": 2
+        },
+        {
+          "questionId": 6,
+          "answer": 1
+        },
+        {
+          "questionId": 7,
+          "answer": 3
+        },
+        {
+          "questionId": 8,
+          "answer": 2
+        },
+        {
+          "questionId": 9,
+          "answer": 1
+        },
+        {
+          "questionId": 10,
+          "answer": 0
+        },
+        {
+          "questionId": 11,
+          "answer": 1
+        },
+        {
+          "questionId": 12,
+          "answer": 0
+        },
+        {
+          "questionId": 13,
+          "answer": 2
+        },
+        {
+          "questionId": 14,
+          "answer": 3
+        },
+        {
+          "questionId": 15,
+          "answer": 2
+        },
+        {
+          "questionId": 16,
+          "answer": 1
+        },
+        {
+          "questionId": 17,
+          "answer": 3
+        },
+        {
+          "questionId": 18,
+          "answer": 2
+        },
+        {
+          "questionId": 19,
+          "answer": 1
+        },
+        {
+          "questionId": 20,
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "userId": 5,
+      "topicId": 2,
+      "answers": [
+        {
+          "questionId": 21,
+          "answer": 2
+        },
+        {
+          "questionId": 22,
+          "answer": 1
+        },
+        {
+          "questionId": 23,
+          "answer": 3
+        },
+        {
+          "questionId": 24,
+          "answer": 2
+        },
+        {
+          "questionId": 25,
+          "answer": 0
+        },
+        {
+          "questionId": 26,
+          "answer": 1
+        },
+        {
+          "questionId": 27,
+          "answer": 1
+        },
+        {
+          "questionId": 28,
+          "answer": 2
+        },
+        {
+          "questionId": 29,
+          "answer": 0
+        },
+        {
+          "questionId": 30,
+          "answer": 3
+        },
+        {
+          "questionId": 31,
+          "answer": 2
+        },
+        {
+          "questionId": 32,
+          "answer": 1
+        },
+        {
+          "questionId": 33,
+          "answer": 3
+        },
+        {
+          "questionId": 34,
+          "answer": 2
+        },
+        {
+          "questionId": 35,
+          "answer": 0
+        },
+        {
+          "questionId": 36,
+          "answer": 1
+        },
+        {
+          "questionId": 37,
+          "answer": 1
+        },
+        {
+          "questionId": 38,
+          "answer": 2
+        },
+        {
+          "questionId": 39,
+          "answer": 0
+        },
+        {
+          "questionId": 40,
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "userId": 2,
+      "topicId": 2,
+      "answer": [
+        {
+          "questionId": 21,
+          "answer": 3
+        },
+        {
+          "questionId": 22,
+          "answer": 0
+        },
+        {
+          "questionId": 23,
+          "answer": 1
+        },
+        {
+          "questionId": 24,
+          "answer": 3
+        },
+        {
+          "questionId": 25,
+          "answer": 2
+        },
+        {
+          "questionId": 26,
+          "answer": 1
+        },
+        {
+          "questionId": 27,
+          "answer": 2
+        },
+        {
+          "questionId": 28,
+          "answer": 0
+        },
+        {
+          "questionId": 29,
+          "answer": 1
+        },
+        {
+          "questionId": 30,
+          "answer": 3
+        },
+        {
+          "questionId": 31,
+          "answer": 1
+        },
+        {
+          "questionId": 32,
+          "answer": 1
+        },
+        {
+          "questionId": 33,
+          "answer": 1
+        },
+        {
+          "questionId": 34,
+          "answer": 0
+        },
+        {
+          "questionId": 35,
+          "answer": 0
+        },
+        {
+          "questionId": 36,
+          "answer": 3
+        },
+        {
+          "questionId": 37,
+          "answer": 1
+        },
+        {
+          "questionId": 38,
+          "answer": 1
+        },
+        {
+          "questionId": 39,
+          "answer": 0
+        },
+        {
+          "questionId": 40,
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "userId": 2,
+      "topicId": 4,
+      "answer": [
+        {
+          "questionId": 61,
+          "answer": 2
+        },
+        {
+          "questionId": 62,
+          "answer": 1
+        },
+        {
+          "questionId": 63,
+          "answer": 0
+        },
+        {
+          "questionId": 64,
+          "answer": 3
+        },
+        {
+          "questionId": 65,
+          "answer": 1
+        },
+        {
+          "questionId": 66,
+          "answer": 2
+        },
+        {
+          "questionId": 67,
+          "answer": 2
+        },
+        {
+          "questionId": 68,
+          "answer": 1
+        },
+        {
+          "questionId": 69,
+          "answer": 0
+        },
+        {
+          "questionId": 70,
+          "answer": 3
+        },
+        {
+          "questionId": 71,
+          "answer": 2
+        },
+        {
+          "questionId": 72,
+          "answer": 3
+        },
+        {
+          "questionId": 73,
+          "answer": 0
+        },
+        {
+          "questionId": 74,
+          "answer": 1
+        },
+        {
+          "questionId": 75,
+          "answer": 2
+        },
+        {
+          "questionId": 76,
+          "answer": 2
+        },
+        {
+          "questionId": 77,
+          "answer": 0
+        },
+        {
+          "questionId": 78,
+          "answer": 2
+        },
+        {
+          "questionId": 79,
+          "answer": 3
+        },
+        {
+          "questionId": 80,
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
